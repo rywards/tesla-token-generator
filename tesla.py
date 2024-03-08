@@ -38,7 +38,7 @@ response = session.get(AUTH_URL, params=params)
 print(response.url)
 authorization_code = input("Enter the authorization code from the URL: ")
 
-# Step 2: Exchange authorization code for tokens
+# Exchange authorization code for tokens
 data = {
     "grant_type": "authorization_code",
     "client_id": "ownerapi",
