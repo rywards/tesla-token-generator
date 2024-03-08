@@ -1,4 +1,4 @@
-# Tesla Access Token Generator
+# Tesla Token Generator
 
 Thanks for visiting this project. I put this together because I didn't trust putting sensitive Tesla data into unfamiliar webpages. Use at your own risk!
 
