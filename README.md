@@ -13,7 +13,7 @@ Make sure you have python installed on your machine and run the tesla.py file. Y
 Paste it into the prompt an hit enter. Your Access and Refresh token will be printed in the console. Store them in a secure location and DO NOT SHARE THEM.
 
 ## Additional Resources
-
-Unofficial Tesla JSON API: https://tesla-api.timdorr.com/api-basics/authentication
-Tesla API: https://www.teslaapi.io/
-Teslamate: https://github.com/teslamate-org/teslamate
+ - Unofficial Tesla JSON API:
+   https://tesla-api.timdorr.com/api-basics/authentication
+ - Tesla API: https://www.teslaapi.io/
+ - Teslamate: https://github.com/teslamate-org/teslamate
